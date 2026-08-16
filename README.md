@@ -37,7 +37,7 @@
 | [yuheng-agent-demo](https://github.com/Lugpt/yuheng-agent-demo) | 💻 玉衡计划核心逻辑最小可运行演示（Python，零依赖） |
 | [astraea-plan-yuheng](https://github.com/Lugpt/astraea-plan-yuheng) | 🌟 玉衡计划官网 + 架构文档（当前主力） |
 | [yuheng-plan](https://github.com/Lugpt/yuheng-plan) | 📄 玉衡计划早期架构文档（已并入主仓） |
-| [luhongshuai.com](https://github.com/Lugpt/luhongshuai.com) | 🏛️ 个人技术站点（旧仓库，已迁移） |
+| [luhongshuai.com](https://github.com/Lugpt/luhongshuai.com) | 📚 MoreFun Books 魔方图书收银系统（连锁书店进销存+收银） |
 
 ## 🌐 链接
 
